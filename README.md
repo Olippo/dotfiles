@@ -5,7 +5,7 @@
 + **Shell** : bash
 + **Window manager** : i3wm
 + **Bar** : Polybar
-+ **Font**: Inconsolata
++ **Fonts**: 
 + **Text Editor**: Visual Studio Code
 + **Browser**: Firefox
 + **Icons** : Papirus
