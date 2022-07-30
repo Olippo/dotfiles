@@ -6,7 +6,7 @@
 + **Window manager** : i3wm
 + **Bar** : Polybar
 + **Fonts**: 
-+ **Text Editor**: Visual Studio Code
++ **Text Editor**: Neovim/Visual Studio Code
 + **Browser**: Firefox
 + **Icons** : Papirus
 + **Terminal** : Alacritty
