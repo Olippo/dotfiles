@@ -2,16 +2,15 @@
 ## System Info</h1>
 
 + **OS**: Arch
-+ **Shell** : bash
 + **Window manager** : i3wm
 + **Bar** : Polybar
-+ **Fonts**: 
-+ **Text Editor**: Neovim/Visual Studio Code
++ **Fonts**: Firacode
++ **Text Editor**: Nvim/Visual Studio Code
 + **Browser**: Firefox
 + **Icons** : Papirus
 + **Terminal** : Alacritty
 
 ## Screenshot
 <p align="center">
-        <img src="/screenshot/SSL1.png" />
+        <img src="/screenshot/screen.png" />
 </p>
