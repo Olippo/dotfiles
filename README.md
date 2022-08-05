@@ -2,7 +2,7 @@
 ## System Info</h1>
 
 + **OS**: Arch
-+ **Window manager** : i3wm
++ **Window manager** : i3
 + **Bar** : Polybar
 + **Fonts**: Firacode
 + **Text Editor**: Nvim/Visual Studio Code

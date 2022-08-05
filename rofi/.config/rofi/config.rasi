@@ -1,0 +1,32 @@
+configuration {
+  display-drun: "Applications:";
+  display-window: "Windows:";
+  show-icons: true;
+  drun-display-format: " {name}";
+  font: "Fira Code Nerd Font 12";
+  modi: "window,run,drun";
+}
+
+//@theme "/dev/null"
+
+* {
+  bg: #11121D;
+  bg-alt: #444b6a;
+  one: #111111;
+  white: #ffffff;
+
+  fg: #FFFFFF;
+  fg-alt: #787c99;
+
+  background-color: @fg;
+  border: 1;
+  margin: 0;
+  padding: 5;
+  spacing: 0;
+}
+
+//@theme "/usr/share/rofi/themes/olrofi.rasi"
+//@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
+//@theme "/usr/share/rofi/themes/docu.rasi"
+//@theme "/usr/share/rofi/themes/Pop-Dark.rasi"
+@theme "/usr/share/rofi/themes/olrofi.rasi"
