@@ -2,11 +2,10 @@
 ## System Info</h1>
 
 + **OS**: Arch
++ **DE**: KDE Plasma
 + **Window manager** : i3
 + **Bar** : Polybar
-+ **Fonts**: Firacode
-+ **Text Editor**: Nvim/Visual Studio Code
-+ **Browser**: Firefox
++ **Fonts**: Firacode Nerd, Hack Nerd
 + **Icons** : Papirus
 + **Terminal** : Alacritty
 
